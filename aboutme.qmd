@@ -1,0 +1,7 @@
+---
+title: "About Me"
+format: html
+---
+
+## Blake Greene
+I am a student and researcher at Clemson Univeristy in the Food, Nutrition, and Packaging Sciences Department. But life is about more than research - I also enjoy traveling and spending time outdoors.

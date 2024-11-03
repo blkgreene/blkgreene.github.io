@@ -1,0 +1,32 @@
+---
+title: "Education"
+format:
+    html:
+        code-fold: true
+jupyter: python3
+---
+
+## Bachelor's Studies
+B.S. in Packaging Science, Clemson University, 2014.
+
+## Graduate Studies
+---
+PhD in Food, Nutrition, and Packaging Sciences, Clemson University, 2025 (expected).
+
+### Awards
+- Wade Stackhous Fellowship, 2024
+- Sonoco Graduate Fellowship in Sustainability, 2023
+- Omicron Delta Kappa Honor Society, 2021
+- Certified Student Leader, 2021
+
+### Service
+
+#### Graduate Student Government
+- Senator for the Food, Nutrition, and Packaging Sciences Department, 2020-2023
+- Sustainability Committee Member, 2020-2023
+- Graduate Travel Grants Committee Member, 2020-2021
+- University Facilities Liaison, 2022-2023
+
+#### Food, Nutrition, and Packaging Sciences Graduate Student Association
+- Treasurer
+- Vice-president
